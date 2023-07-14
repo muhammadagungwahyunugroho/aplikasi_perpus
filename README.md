@@ -1,5 +1,5 @@
-# MA Nurul Islam E - Library
-Sebuah software sistem informasi dekstop yang dirancang untuk memudahkan dalam transaksi peminjaman buku di perpustakaan MA Nurul Islam Lumajang, kami memberikan sebuah
+# Perpustakaan - Library
+Sebuah software sistem informasi dekstop yang dirancang untuk memudahkan dalam transaksi peminjaman buku di perpustakaan widyagama malang, kami memberikan sebuah
 pencatatan transaksi pada perpustakaan dengan cara yang cepat dan efisien, software ini masih dalam tahap pengujian dilapangan dan akan selalu dimaintenance untuk memenuhi 
 kebutuhan pengelolaan secara nyata
 
